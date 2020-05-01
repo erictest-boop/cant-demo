@@ -1,0 +1,19 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Eclipse stuff
+.classpath
+.project
+.settings/*
+
+# IntelliJ stuff
+.idea/*
+*.iml
+
+# NetBeans stuff
+nbactions.xml
+
+# App config
+# Auto-generated content
+/target
